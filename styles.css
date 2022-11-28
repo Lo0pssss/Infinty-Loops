@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@1&family=Mulish:wght@200&family=Raleway:wght@300&family=Roboto+Mono:wght@300&display=swap');
+
+.nav-link {
+    font-family: 'Raleway', sans-serif;
+}
+
+.title {
+    font-family: 'ABeeZee', sans-serif;
+}
+
+.subtitulo {
+
+    font-family: 'Mulish', sans-serif;
+    place-content: center;
+}
+
+.texto {
+    font-family: 'Roboto Mono', monospace;
+    line-height: 1.5rem;
+}
+
+.Mulish {
+    font-family: 'Mulish', sans-serif;
+}
+
+.clr-bk_1 {
+    color: #000;
+}
+
+.c {
+    background: #aaa;
+}
+
+.d {
+    background: #ccc;
+}
+
+.bg-bk_3 {
+    background: #080808;
+}
+
+.home-img {
+    height: 100%;
+    width: 100%;
+}
+
+.aside-left {
+    height: 100vh;
+    float: left;
+}
+
+.aside-right {
+    height: 100vh;
+    float: left;
+}
+
+#home {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    gap: 1.5rem;
+    place-content: center;
+}
+
+
+.padding-top {
+    padding-top: 5rem;
+}
+
+.l-flex_just {
+    justify-content: flex-start;
+}
+
+.invert {
+    filter: invert();
+}
+
+.logo {
+    width: 2.5rem;
+    height: 2.5rem
+}
+
+.Raleway {
+    font-family: 'Raleway', sans-serif
+}
+
+.block {
+    display: block;
+}
+
+.m-center {
+    margin: 0 auto;
+}
